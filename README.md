@@ -1,2 +1,2 @@
 # 90DaysofDevOps-2023
-Documating My Learing on Devops with next level I have don't last year with Michael Cade he started this year to so I Love to join him to learn more and more as he say never stop learning 
+Taking my learning of DevOps to the next level with Michael Cade. I did this last year too. Michael Card started this year as well. So I'm joining him on this learning journey too. I will document my learning in this repository. 
