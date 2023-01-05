@@ -1,9 +1,9 @@
-# **DevSecOps**
+# DevSecOps
 Automated security refers to the use of technology to perform security tasks without the need for human intervention. This can include things like security software that monitors a network for threats and takes action to block them, or systems that use artificial intelligence to analyse security footage and identify unusual activity. Automated security systems are designed to make security processes more efficient and effective, and to help reduce the workload on security personnel.
 
 A key component of all things DevSecOps is the ability to automate a lot of the tasks at hand when creating and delivering software, when we add security from the start it means we also need to consider the automation aspect of security.
 
-## what is **DevSecOps?**
+## what is DevSecOps?
 
 DevSecOps for *development, security,* and *operations* automate the integration of security at every phase of the software development lifecycle(SDLC), from initial design through integration, testing, deployment, and software delivery.
 
@@ -19,15 +19,15 @@ The goal of DevSecOps is to build security measures into the software developmen
 
 DevOps focuses on improving collaboration and communication between developers and operations staff to improve the speed, reliability, and quality of software releases, while DevSecOps focuses on integrating security practices into the software development process to reduce the risk of security vulnerabilities and improve the overall security of the software.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c15a28f-ea44-478e-82aa-d317a9cef043/Untitled.png)
+<img src="../Images/devops-vs-devsecops.png">
 
-## **Automated Security**
+## Automated Security
 
 Automated security refers to the use of technology to perform security tasks without the need for human intervention. This can include things like security software that monitors a network for threats and takes action to block them, or systems that use artificial intelligence to analyse security footage and identify unusual activity. Automated security systems are designed to make security processes more efficient and effective, and to help reduce the workload on security personnel.
 
 A key component of all things DevSecOps is the ability to automate a lot of the tasks at hand when creating and delivering software, when we add security from the start it means we also need to consider the automation aspect of security.
 
-## **Security at Scale (Containers and Microservices)**
+## Security at Scale (Containers and Microservices)
 
 We all know that Scaling and dynamic infrastructure have been enabled by Containerisation and microservices have changed the way that most organisations do business.
 
@@ -61,4 +61,4 @@ DevSecOps, on the other hand, is a combination of development, security, and ope
 
 # Resources
 
--
+- 
