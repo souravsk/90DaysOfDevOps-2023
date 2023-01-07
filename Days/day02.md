@@ -6,7 +6,6 @@ Yesterday we covered what is DevSecOps, in this post we are going to look at som
 
 First and foremost, all businesses and software is an attack vectors to an attacker, there is no safe place we can only make places safer and less attractive for people to attack.
 
-
 With that in mind, attackers are a constant threat!
 
 Attackers will identify gaps in security by running attacks in a specific order to gain access, pull data and be successful in their mission.
