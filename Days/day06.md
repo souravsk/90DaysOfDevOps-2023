@@ -5,12 +5,19 @@ Secure coding is the practice of writing software in a way that ensures the secu
 There are several key principles of secure coding that developers should follow:
 
 1. **Input validation**: It is important to validate all user input to ensure that it is in the expected format and does not contain any malicious code or unexpected characters. This can be achieved through the use of regular expressions, data type checks, and other validation techniques.
+
 2. **Output encoding**: Output data should be properly encoded to prevent any potential injection attacks. For example, HTML output should be properly escaped to prevent cross-site scripting (XSS) attacks, and SQL queries should be parameterized to prevent SQL injection attacks.
+
 3. **Access control**: Access control involves restricting access to resources or data to only those users who are authorized to access them. This can include implementing authentication and authorization protocols, as well as enforcing least privilege principles to ensure that users have only the access rights they need to perform their job duties.
+
 4. **Error handling**: Error handling is the process of properly handling errors and exceptions that may occur during the execution of a program. This can include logging errors, displaying appropriate messages to users, and mitigating the impact of errors on system security.
+
 5. **Cryptography**: Cryptography should be used to protect sensitive data and communications, such as passwords, financial transactions, and sensitive documents. This can be achieved through the use of encryption algorithms and secure key management practices.
+
 6. **Threat Modeling**: Document, locate, address, and validate are the four steps to threat modeling. To code securely, you need to examine your software for areas susceptible to increased threats of attack. Threat modeling is a multi-stage process that should be integrated into the software lifecycle from development, testing, and production.
+
 7. **Secure storage**: Secure storage involves properly storing and handling sensitive data, such as passwords and personal information, to prevent unauthorized access or tampering. This can include using encryption, hashing, and other security measures to protect data at rest and in transit.
+
 8. **Secure architecture**: Secure architecture is the foundation of a secure system. This includes designing systems with security in mind, using secure frameworks and libraries, and following secure design patterns.
 
 There are several tools and techniques that can be used to help ensure that code is secure, including Static Application Security Testing (SAST), Software Composition Analysis (SCA), and Secure Code Review.
