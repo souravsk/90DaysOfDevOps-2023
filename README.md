@@ -12,4 +12,4 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ⌨️ 6 -> [Secure Coding Overview](Days/day06.md)
 - [✔️] ⌨️ 7 -> [SAST Overview](Days/day07.md)
 - [] ⌨️ 8 -> [SAST Implementation with SonarCloud]()
-- [] ⌨️ 9 -> []
+- [✔️] ⌨️ 9 -> [Software Composition Analysis Overview](Days/day09.md)
