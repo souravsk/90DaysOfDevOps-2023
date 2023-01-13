@@ -1,4 +1,4 @@
-# Software Composition Analysis Overview
+# Software Composition Analysis (SCA)
 
 Software composition analysis (SCA) is a process that helps developers identify the open source libraries, frameworks, and components that are included in their software projects. SCA tools scan the codebase of a software project and provide a report that lists all the open source libraries, frameworks, and components that are being used. This report includes information about the licenses and vulnerabilities of these open source libraries and components, as well as any security risks that may be associated with them.
 
