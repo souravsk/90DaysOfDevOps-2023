@@ -11,5 +11,11 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 ## Secure Coding (Week 2)
 - [✔️] ⌨️ 6 -> [Secure Coding Overview](Days/day06.md)
 - [✔️] ⌨️ 7 -> [SAST Overview](Days/day07.md)
-- [] ⌨️ 8 -> [SAST Implementation with SonarCloud]()
+- [✔️] ⌨️ 8 -> [SAST Implementation with SonarCloud]()
 - [✔️] ⌨️ 9 -> [Software Composition Analysis Overview](Days/day09.md)
+- [✔️] ⌨️ 10 -> [SCA Implementation with OWASP Dependency Check](Days/day10.md)
+- [✔️] ⌨️ 11 -> [Secure Coding Review](Days/day11.md)
+- [✔️] ⌨️ 12 -> [Additional Secure Coding Practices](Days/day12.md)
+
+## Continuous Build, Integration, Testing
+- [✔️] ⌨️ 13 ->
