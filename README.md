@@ -17,5 +17,5 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ⌨️ 11 -> [Secure Coding Review](Days/day11.md)
 - [✔️] ⌨️ 12 -> [Additional Secure Coding Practices](Days/day12.md)
 
-## Continuous Build, Integration, Testing
+## Continuous Build, Integration, Testing (Week 3)
 - [✔️] ⌨️ 13 ->
