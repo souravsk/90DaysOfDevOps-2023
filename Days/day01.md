@@ -19,7 +19,7 @@ The goal of DevSecOps is to build security measures into the software developmen
 
 DevOps focuses on improving collaboration and communication between developers and operations staff to improve the speed, reliability, and quality of software releases, while DevSecOps focuses on integrating security practices into the software development process to reduce the risk of security vulnerabilities and improve the overall security of the software.
 
-<img src="../Images/devops-vs-devsecops.png">
+<img src="../Images/day01/devops-vs-devsecops.png">
 
 ## Automated Security
 

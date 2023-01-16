@@ -21,67 +21,67 @@ Read more about SonarCloud [here](https://docs.sonarcloud.io/)
 
 ### Step:- 2
 From the dashboard, click on “Import an organization from GitHub”
-![import](../Images/import.png)
+![import](../Images/day08/import.png)
 
 ### Step:- 3
 Authorise and install SonarCloud app to access your GitHub account.
 Then Select the repository (free tier supports only public repositories) you want to analyze and click "Install"
-![Select Project](../Images/select-project.png)
+![Select Project](../Images/day08/select-project.png)
     
 ### Step:- 4
 In SonarCloud you can now create an organisation.
-![Create org](../Images/create-org.png)
+![Create org](../Images/day08/create-org.png)
 
 Then Select the Plane
 
-![Select plan](../Images/select%20the%20plan.png)
+![Select plan](../Images/day08/select%20the%20plan.png)
 
 ### Step:- 5
 Click on setup to add the Project.
 
-![Added Project](../Images/add%20the%20project.png)
+![Added Project](../Images/day08/add%20the%20project.png)
 
 Click On SetUp Button
 
-![Click on](../Images/click%20on.png)
+![Click on](../Images/day08/click%20on.png)
 
 Now on the SonarCloud dashboard you can the project.
 
-![Dashboard](../Images/myproject.png)
+![Dashboard](../Images/day08/myproject.png)
 
 ### Step:- 6
  To setup the GitHub Actions, Go on **Information** > **Last analysis method**
 
-![Information](../Images/Overview.png)
+![Information](../Images/day08/Overview.png)
 
 Then go to the Last analysis
 
-![Last analysis](../Images/last.png)
+![Last analysis](../Images/day08/last.png)
 
 Click on **GitHub Actions**
 
 This will show some steps to integrate SonarCloud with GitHub actions. At the top you will see SONAR_TOKEN, we will add that as Github Secrets later.
 
-![Github Action](../Images/github-action.png)
+![Github Action](../Images/day08/github-action.png)
 
 ### Step:- 7
 Now You can see the Secret that we will use to set up the Github Action. So let Setup this Secret to your Github Secret.
 
-![Token](../Images/token.png)
+![Token](../Images/day08/token.png)
 
 > Don't Close this Page Becaouse we will be going back and forth to this page so open anything into a new tab.
 
 Now to Your Github Repo and open that project which you have seleted will create SonarCloud Account.
 
-![project](../Images/go-to-github-action.png)
+![project](../Images/day08/go-to-github-action.png)
 
 Now go **Settings** Then left side click on **Secrets and analysis** -> Then Select **Action**
 
-![Action](../Images/go-secrets-actions.png)
+![Action](../Images/day08/go-secrets-actions.png)
 
 Now Click on **New Repository secret** and fillup the Token **Name**  as we show on the SonarCloud page and fillup the Secrets what we got from SonarCloud
 
-![Token](../Images/secrets-added.png)
+![Token](../Images/day08/secrets-added.png)
 
 Then Click on **Add Secret** and Now you have added you Secret to your github action.
 
@@ -91,31 +91,31 @@ Now we will Create configuration file that we will have to add in the source cod
 
 To get the Configuration Content just **Select Programming Language** that you Project is based on.
 
-![](../Images/token.png)
+![](../Images/day08/token.png)
 
 ![configuration]()
 
 Now you can create a file by just using the Github UI or You can use the Github Codespaces. I'm Using the Github Codespaces.
 
-![](../Images/codespace.png)
+![](../Images/day08/codespace.png)
 
 I have already create Github Codespaces Now let's Create the file.
 >Note that the file Name should be same as shown on the SonarCloud Page `sonar-project.properties`.
 
-![](../Images/peast%20the%20code.png)
+![](../Images/day08/peast%20the%20code.png)
 
 Then copy the file content from the SonarCloud Page and paste it to the file that we just Created.
 
 Now make the file commit.
 
-![Commit](../Images/file%20push.png)
+![Commit](../Images/day08/file%20push.png)
 
 So Now we have Setup the config File
 
 ### Step:- 9
 Now It's time to Create the Github Action. The file Content for the github action will be also is on the SonarCloud.
 
-![Yaml](../Images/yaml.png)
+![Yaml](../Images/day08/yaml.png)
 
 This is the yaml file that we will paste it on the github action page to create an action. Your Yaml will be different then mine it wil be as per you programming language.
 
@@ -125,19 +125,19 @@ Let go to gihtub page and Click On the **Action**
 
 Now Click on the **Set up a Workflow Yourself** 
 
-![](../Images/set-action.png)
+![](../Images/day08/set-action.png)
 
 Now Paste the Code that you have Copied from the SonarCloud page and change the name to build you can use the main name also.
 
-![](../Images/action-code.png)
+![](../Images/day08/action-code.png)
 
 Now Let's Commit this action file.
 
-![Commit](../Images/cloud-commit.png)
+![Commit](../Images/day08/cloud-commit.png)
 
 And if you have do Every thing right then you action will work Fine.
 
-![](../Images/build.png)
+![](../Images/day08/build.png)
 
 At the bottom of page of , disable the Automatic Analysis
 
@@ -147,5 +147,5 @@ At the bottom of page of , disable the Automatic Analysis
 
 Now after every commit, you can check the updated reports on the SonarCloud dashboard.
 
-![](../Images/final.png)
+![](../Images/day08/final.png)
 
