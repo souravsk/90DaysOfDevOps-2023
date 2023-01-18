@@ -19,3 +19,4 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 
 ## Continuous Build, Integration, Testing (Week 3)
 - [✔️] ⌨️ 13 -> [Container Image Scanning](Days/day13.md)
+- [✔️] ⌨️ 14 -> [Container Image Scanning Advanced](Days/day14.md)
