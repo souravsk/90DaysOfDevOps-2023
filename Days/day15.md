@@ -5,8 +5,8 @@ Fuzzing, also known as "fuzz testing," is a software testing technique that invo
 Fuzzing can be performed manually or by using a testing library/framework to craft the inputs for us.
 
 To better understand fuzzing let's go with an example, imagine this code:
-
-`func DontPanic(s string) {
+```
+func DontPanic(s string) {
     if len(s) == 4 {
         if s[0] == 'f' {
             if s[1] == 'u' {
@@ -18,7 +18,8 @@ To better understand fuzzing let's go with an example, imagine this code:
             }
         }
     }
-}`
+}
+```
 
 This is a Go function that accepts a `string` as the one and only argument.
 
@@ -52,20 +53,23 @@ Fuzzing is a useful technique, but there are situations in which it might not be
 For example, if the input that fails our code is too specific and there are no clues to help, the fuzzing library might not be able to guess it.
 
 If we change the example code from the previous paragraph to something like this:
-
-`func DontPanic(s input) {
+```
+func DontPanic(s input) {
     if (len(s) == 4) && s[0] == 'f' && s[1] == 'u' && s[2] == 'z' && s[3] == 'z' {
         panic("error")
     }
-}`
+}
+```
 
 or just:
 
-`func DontPanic(s input) {
+```
+func DontPanic(s input) {
     if s == "fuzz" {
         panic("error")
     }
-}`
+}
+```
 
 then fuzzing won't help us, because there's a small chance it will generate the exact string `fuzz` without having any clues, and none of the inputs that triggered a code-coverage change in the previous case (string of size 4, string of size 4 starting with `z`, etc.) will trigger a code-coverage now (because we only have one `if` check, compared to 5 in the previous example).
 
