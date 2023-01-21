@@ -22,5 +22,5 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ⌨️ 14 -> [Container Image Scanning Advanced](Days/day14.md)
 - [✔️] ⌨️ 15 -> [Fuzzing](Days/day15.md)
 - [✔️] ⌨️ 16 -> [Fuzzing Advanced](Days/day16.md)
-- [] ⌨️ 17 -> []()
+- [✔️] ⌨️ 17 -> [DAST (Dynamic Application Security Testing)](Days/day17.md)
 - [] ⌨️ 18 -> []()
