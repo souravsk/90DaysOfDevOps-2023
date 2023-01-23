@@ -24,4 +24,4 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ⌨️ 16 -> [Fuzzing Advanced](Days/day16.md)
 - [✔️] ⌨️ 17 -> [DAST (Dynamic Application Security Testing)](Days/day17.md)
 - [✔️] ⌨️ 18 -> [IAST (Interactive Application Security Testing)](Days/day18.md)
-- [] 19 ⌨️ -> []()
+- [✔️] 19 ⌨️ -> [IAST and DAST in conjunction](Days/day19.md)
