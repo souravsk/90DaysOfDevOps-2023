@@ -28,4 +28,7 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 
 ## Continuous Delivery & Deployment - (Week 4)
 
-- [] ⌨️ 20 -> []()
+- [✔️] ⌨️ 20 -> [Continuous Image Repository Scan](Days/day20.md)
+- [✔️] ⌨️ 21 -> [](Days/day20.md)
+- [] ⌨️ 22 -> [](Days/day20.md)
+- [] ⌨️ 23 -> [](Days/day20.md)
