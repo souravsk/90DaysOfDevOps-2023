@@ -30,5 +30,5 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 
 - [✔️] ⌨️ 20 -> [Continuous Image Repository Scan](Days/day20.md)
 - [✔️] ⌨️ 21 -> [Continuous Image Repository Scan - Container Registries](Days/day21.md)
-- [] ⌨️ 22 -> [](Days/day20.md)
+- [✔️] ⌨️ 22 -> [Artifacts Scan](Days/day22.md)
 - [] ⌨️ 23 -> [](Days/day20.md)
