@@ -33,5 +33,5 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ⌨️ 22 -> [Artifacts Scan](Days/day22.md)
 - [✔️] ⌨️ 23 -> [Signing](Days/day23.md)
 - [✔️] ⌨️ 24 -> [Systems Vulnerability Scanning](Days/day24.md)
-- [] ⌨️ 25 -> [](Days/day25.md)
+- [✔️] ⌨️ 25 -> [Containers Vulnerability Scanning](Days/day25.md)
 - [] ⌨️ 26 -> [](Days/day26.md)
