@@ -34,4 +34,4 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ⌨️ 23 -> [Signing](Days/day23.md)
 - [✔️] ⌨️ 24 -> [Systems Vulnerability Scanning](Days/day24.md)
 - [✔️] ⌨️ 25 -> [Containers Vulnerability Scanning](Days/day25.md)
-- [] ⌨️ 26 -> [](Days/day26.md)
+- [✔️] ⌨️ 26 -> [Network Vulnerability Scan](Days/day26.md)
