@@ -35,3 +35,13 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ⌨️ 24 -> [Systems Vulnerability Scanning](Days/day24.md)
 - [✔️] ⌨️ 25 -> [Containers Vulnerability Scanning](Days/day25.md)
 - [✔️] ⌨️ 26 -> [Network Vulnerability Scan](Days/day26.md)
+
+## Runtime Defence & Monitoring - (Week 5)
+
+- [✔️] ⌨️ 27 -> [System monitoring and auditing](Days/day27.md)
+- [] ⌨️ 28 -> [](Days/day26.md)
+- [] ⌨️ 29 -> [](Days/day26.md)
+- [] ⌨️ 30 -> [](Days/day26.md)
+- [] ⌨️ 31 -> [](Days/day26.md)
+- [] ⌨️ 32 -> [](Days/day26.md)
+- [] ⌨️ 33 -> [](Days/day26.md)
