@@ -40,7 +40,7 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 
 - [✔️] ⌨️ 27 -> [System monitoring and auditing](Days/day27.md)
 - [✔️] ⌨️ 28 -> [Application level monitoring](Days/day28.md)
-- [] ⌨️ 29 -> [](Days/day26.md)
+- [✔️] ⌨️ 29 -> [Detecting suspicious application behaviour](Days/day29.md)
 - [] ⌨️ 30 -> [](Days/day26.md)
 - [] ⌨️ 31 -> [](Days/day26.md)
 - [] ⌨️ 32 -> [](Days/day26.md)
