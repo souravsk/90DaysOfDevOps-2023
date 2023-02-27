@@ -45,3 +45,12 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ⌨️ 31 -> [ Vulnerability and patch management](Days/day31.md)
 - [] ⌨️ 32 -> [](Days/day26.md)
 - [] ⌨️ 33 -> [](Days/day26.md)
+
+## Python - (Week 6)
+[✔️] 🐍 42 -> [Programming Language: Introduction to Python](Days/day34.md)
+[] 🐍 43 -> [Python Loops, functions, modules and libraries]()
+[] 🐍 44 -> [Data Structures and OOP in Python]()
+[] 🐍 45 -> [Debugging, testing and Regular expression]()
+[] 🐍 46 -> [Web development in Python]()
+[] 🐍 47 -> [Automation with Python]()
+[] 🐍 48 ->
