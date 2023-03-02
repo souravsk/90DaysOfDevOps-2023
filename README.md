@@ -48,7 +48,7 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 
 ## Python - (Week 6)
 [✔️] 🐍 42 -> [Programming Language: Introduction to Python](Days/day34.md)
-[] 🐍 43 -> [Python Loops, functions, modules and libraries]()
+[] 🐍 43 -> [Python Loops, functions, modules and libraries](Days/)
 [] 🐍 44 -> [Data Structures and OOP in Python]()
 [] 🐍 45 -> [Debugging, testing and Regular expression]()
 [] 🐍 46 -> [Web development in Python]()
