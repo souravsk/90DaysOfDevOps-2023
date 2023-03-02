@@ -43,7 +43,7 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ⌨️ 29 -> [Detecting suspicious application behaviour](Days/day29.md)
 - [✔️] ⌨️ 30 -> [Runtime network protections and policies](Days/day30.md)
 - [✔️] ⌨️ 31 -> [ Vulnerability and patch management](Days/day31.md)
-- [] ⌨️ 32 -> [](Days/day26.md)
+- [✔️] ⌨️ 32 -> [Application runtime and network policies](Days/day32.md)
 - [] ⌨️ 33 -> [](Days/day26.md)
 
 ## Python - (Week 6)
