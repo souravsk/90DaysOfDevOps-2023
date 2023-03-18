@@ -53,4 +53,4 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] 🐍 37 -> [Debugging, testing and Regular expression](Days/day37.md)
 - [✔️] 🐍 38 -> [Web development in Python](Days/day38.md)
 - [✔️] 🐍 39 -> [Automation with Python](Days/day39.md)
-- [] 🐍 40 ->
+- [✔️] 🐍 40 -> []()
