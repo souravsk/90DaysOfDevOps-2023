@@ -54,3 +54,12 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] 🐍 38 -> [Web development in Python](Days/day38.md)
 - [✔️] 🐍 39 -> [Automation with Python](Days/day39.md)
 - [✔️] 🐍 40 -> [Let's build an App in Python](Days/day40.md)
+
+## AWS - (Week 7)
+- [✔️] ☁️ 49 -> [AWS Cloud Overview](Days/day41.md)
+- [] ☁️ 50 -> [Create Free Tier Account & Enable Billing Alarms]()
+- [] ☁️ 51 -> [Infrastructure as Code (IaC) and CloudFormation]()
+- [] ☁️ 52 -> [Identity and Access Management (IAM)]()
+- [] ☁️ 53 -> [AWS Systems Manager]()
+- [] ☁️ 54 -> [AWS CodeCommit]()
+- [] ☁️ 55 -> [AWS CodePipeline]()
