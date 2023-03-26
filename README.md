@@ -60,6 +60,6 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ☁️ 42 -> [Create Free Tier Account & Enable Billing Alarms](Days/day42.md)
 - [✔️] ☁️ 43 -> [Infrastructure as Code (IaC) and CloudFormation](Days/day43.md)
 - [✔️] ☁️ 44 -> [Identity and Access Management (IAM)](Days/day44.md)
-- [] ☁️ 45 -> [AWS Systems Manager]()
+- [] ☁️ 45 -> [AWS Systems Manager](Days/day45.md)
 - [] ☁️ 46 -> [AWS CodeCommit]()
 - [] ☁️ 47 -> [AWS CodePipeline]()
