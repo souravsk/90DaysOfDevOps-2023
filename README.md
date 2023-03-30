@@ -62,4 +62,13 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] ☁️ 44 -> [Identity and Access Management (IAM)](Days/day44.md)
 - [✔️] ☁️ 45 -> [AWS Systems Manager](Days/day45.md)
 - [✔️] ☁️ 46 -> [AWS CodeCommit](Days/day46.md)
-- [] ☁️ 47 -> [AWS CodePipeline]()
+- [✔️] ☁️ 47 -> [AWS CodePipeline](Days/day47.md)
+
+## Serverless
+[✔️] 👩🏿‍💻 70 > [What is Serverless?]()
+[] 👩🏿‍💻 71 > [Serverless Compute]()
+[] 👩🏿‍💻 72 > [Serverless Storage]()
+[] 👩🏿‍💻 73 > [Serverless APIs]()
+[] 👩🏿‍💻 74 > [Serverless Orchestration]()
+[] 👩🏿‍💻 75 > [Serverless & Well Architected]()
+[] 👩🏿‍💻 76 > [Serverless - Beyond the Basics]()
