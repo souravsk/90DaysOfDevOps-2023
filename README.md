@@ -69,6 +69,6 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] 👩🏿‍💻 49 -> [Serverless Compute](Days/day49.md)
 - [✔️] 👩🏿‍💻 50 -> [Serverless Storage](Days/day50.md)
 - [✔️] 👩🏿‍💻 51 -> [Serverless APIs](Days/day51.md)
-- [] 👩🏿‍💻 52 -> [Serverless Orchestration]()
+- [✔️] 👩🏿‍💻 52 -> [Serverless Orchestration](Days/day52.md)
 - [] 👩🏿‍💻 53 -> [Serverless & Well Architected]()
 - [] 👩🏿‍💻 54 -> [Serverless - Beyond the Basics]()
