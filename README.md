@@ -72,3 +72,13 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 - [✔️] 👩🏿‍💻 52 -> [Serverless Orchestration](Days/day52.md)
 - [✔️] 👩🏿‍💻 53 -> [Serverless & Well Architected](Days/day53.md)
 - [✔️] 👩🏿‍💻 54 -> [Serverless - Beyond the Basics](Days/day54.md)
+
+### Red Hat OpenShift
+
+- [✔️] ⛑️ 56 > [What does Red Hat OpenShift bring to the party? An Overview](Days/day55.md)
+- [] ⛑️ 57 > [Understanding the OpenShift Architecture, Installation Methods and Process]()
+- [] ⛑️ 58 > [Deploying Red Hat OpenShift on VMware vSphere]()
+- [] ⛑️ 59 > [Deploying applications and getting a handle on Security Constraints Context (SCC)]()
+- [] ⛑️ 60 > [Looking at OpenShift Projects - Creation, Configuration and Governance]()
+- [] ⛑️ 61 > [Understanding Authentication, Role-Based Access Control (RBAC) and Auditing in Red Hat OpenShift: Control and Secure Your Cluster]()
+- [] ⛑️ 62 > [Compliance and Vulnerability Scanning provided by Red Hat OpenShift Operators]()
