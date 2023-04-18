@@ -1,6 +1,5 @@
 # Why choose an enterprise Kubernetes platform?
 
-In the original #90DaysOfDevOps, [Michael covered Kubernetes](https://github.com/MichaelCade/90DaysOfDevOps/blob/main/2022.md#kubernetes) from what it is, to a basic installation, and looked around the various components that make up the ability to deploy and consume containers.
 
 When you look at Kubernetes offerings, there is the open-source do-it-yourself offering, typically known as vanilla Kubernetes, or you have an enterprise offering. An enterprise Kubernetes platform provides a more comprehensive set of features and services than a vanilla Kubernetes. These features and services may include advanced security, auditing, and logging capabilities, as well as simplified deployment, configuration, and management capabilities. In addition, enterprise Kubernetes platforms provide support for a variety of cloud providers and often come with additional features such as multi-cluster management, cloud-native storage and networking, and automated compliance checks. These features and services make it easier for organizations to manage their Kubernetes clusters and ensure that they are secure, compliant, and optimized for performance.
 
