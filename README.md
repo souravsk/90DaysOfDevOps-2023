@@ -75,10 +75,10 @@ Taking my learning of DevOps to the next level with Michael Cade. I did this las
 
 ### Red Hat OpenShift
 
-- [✔️] ⛑️ 56 > [What does Red Hat OpenShift bring to the party? An Overview](Days/day55.md)
-- [] ⛑️ 57 > [Understanding the OpenShift Architecture, Installation Methods and Process]()
-- [] ⛑️ 58 > [Deploying Red Hat OpenShift on VMware vSphere]()
-- [] ⛑️ 59 > [Deploying applications and getting a handle on Security Constraints Context (SCC)]()
-- [] ⛑️ 60 > [Looking at OpenShift Projects - Creation, Configuration and Governance]()
-- [] ⛑️ 61 > [Understanding Authentication, Role-Based Access Control (RBAC) and Auditing in Red Hat OpenShift: Control and Secure Your Cluster]()
-- [] ⛑️ 62 > [Compliance and Vulnerability Scanning provided by Red Hat OpenShift Operators]()
+- [✔️] ⛑️ 55 > [What does Red Hat OpenShift bring to the party? An Overview](Days/day55.md)
+- [✔️] ⛑️ 56 > [Understanding the OpenShift Architecture, Installation Methods and Process](Days/day56.md)
+- [✔️] ⛑️ 57 > [Deploying Red Hat OpenShift on VMware vSphere](Days/day57.md)
+- [✔️] ⛑️ 58 > [Deploying applications and getting a handle on Security Constraints Context (SCC)](Days/day58.md)
+- [✔️] ⛑️ 59 > [Looking at OpenShift Projects - Creation, Configuration and Governance](Days/day59.md)
+- [✔️] ⛑️ 60 > [Understanding Authentication, Role-Based Access Control (RBAC) and Auditing in Red Hat OpenShift: Control and Secure Your Cluster](Days/day60.md)
+- [✔️] ⛑️ 61 > [Compliance and Vulnerability Scanning provided by Red Hat OpenShift Operators](Days/day61.md)
